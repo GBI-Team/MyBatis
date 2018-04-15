@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.MyBatisSample.AppTest" time="0.027" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="user.variant" value=""/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.encoding" value="MS932"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.dir" value="C:\workspace\MyBatisSample"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.home" value="C:\java\eclipse\pleiades\java\7\jre"/>
+    <property name="user.name" value="拓真"/>
+    <property name="sun.boot.library.path" value="C:\java\eclipse\pleiades\java\7\jre\bin"/>
+    <property name="user.home" value="C:\Users\拓真"/>
+    <property name="localRepository" value="C:\Users\拓真\.m2\repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="user.language" value="ja"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.jnu.encoding" value="MS932"/>
+    <property name="java.io.tmpdir" value="C:\Users\拓真\AppData\Local\Temp\"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.class.path" value="C:\workspace\MyBatisSample\target\test-classes;C:\workspace\MyBatisSample\target\classes;C:\Users\拓真\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\拓真\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\拓真\.m2\repository\mysql\mysql-connector-java\5.1.33\mysql-connector-java-5.1.33.jar;C:\Users\拓真\.m2\repository\org\mybatis\mybatis\3.4.0\mybatis-3.4.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.script" value=""/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="sun.java.command" value="C:\Users\拓真\AppData\Local\Temp\surefire7684068748986201628\surefirebooter2722609795367134863.jar C:\Users\拓真\AppData\Local\Temp\surefire7684068748986201628 2018-04-14T16-20-48_924-jvmRun1 surefire2041453230119359831tmp surefire_0193176240085297183tmp"/>
+    <property name="user.timezone" value=""/>
+    <property name="surefire.test.class.path" value="C:\workspace\MyBatisSample\target\test-classes;C:\workspace\MyBatisSample\target\classes;C:\Users\拓真\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\拓真\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\拓真\.m2\repository\mysql\mysql-connector-java\5.1.33\mysql-connector-java-5.1.33.jar;C:\Users\拓真\.m2\repository\org\mybatis\mybatis\3.4.0\mybatis-3.4.0.jar;"/>
+    <property name="java.runtime.version" value="1.7.0_76-b13"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="sun.boot.class.path" value="C:\java\eclipse\pleiades\java\7\jre\lib\resources.jar;C:\java\eclipse\pleiades\java\7\jre\lib\rt.jar;C:\java\eclipse\pleiades\java\7\jre\lib\sunrsasign.jar;C:\java\eclipse\pleiades\java\7\jre\lib\jsse.jar;C:\java\eclipse\pleiades\java\7\jre\lib\jce.jar;C:\java\eclipse\pleiades\java\7\jre\lib\charsets.jar;C:\java\eclipse\pleiades\java\7\jre\lib\jfr.jar;C:\java\eclipse\pleiades\java\7\jre\classes"/>
+    <property name="surefire.real.class.path" value="C:\Users\拓真\AppData\Local\Temp\surefire7684068748986201628\surefirebooter2722609795367134863.jar"/>
+    <property name="java.endorsed.dirs" value="C:\java\eclipse\pleiades\java\7\jre\lib\endorsed"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.version" value="24.76-b04"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="java.version" value="1.7.0_76"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.ext.dirs" value="C:\java\eclipse\pleiades\java\7\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="6.3"/>
+    <property name="basedir" value="C:\workspace\MyBatisSample"/>
+    <property name="java.library.path" value="C:\java\eclipse\pleiades\java\7\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/java/eclipse/pleiades/eclipse/jre/bin/../jre/bin/server;C:/java/eclipse/pleiades/eclipse/jre/bin/../jre/bin;C:/java/eclipse/pleiades/eclipse/jre/bin/../jre/lib/amd64;C:\Program Files\Java\jdk-9.0.4;\bin;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\java\jre;C:\xampp\mysql\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\PostgreSQL\9.6\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\nodejs\;C:\Program Files (x86)\Skype\Phone\;C:\xampp\php;C:\Users\拓真\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Heroku\bin;C:\Users\拓真\AppData\Local\Microsoft\WindowsApps;C:\Users\拓真\AppData\Local\Programs\Fiddler;C:\Users\拓真\AppData\Local\atom\bin;C:\Users\拓真\AppData\Local\Microsoft\WindowsApps;&quot;C:\Program Files\Java\jdk-9.0.4\bin;&quot;;C:\Users\拓真\AppData\Roaming\npm;C:\java\eclipse\pleiades\eclipse;;."/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="user.country" value="JP"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.example.MyBatisSample.AppTest" time="0.002"/>
+</testsuite>
